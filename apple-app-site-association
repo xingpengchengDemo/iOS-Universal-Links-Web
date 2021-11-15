@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "6Z5EZP697M.com.zte.iptvclient.ios.UniversalLinkDemo",
-                "paths": [ "/iOS-Universal-Links-Web/*"]
+                "paths": [ "/xingpengchengDemo/iOS-Universal-Links-Web/*"]
             }
         ]
     }
